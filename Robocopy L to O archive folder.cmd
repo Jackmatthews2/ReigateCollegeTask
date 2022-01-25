@@ -1,1 +1,0 @@
-Robocopy L:\Editing\ O:\Editing /mir /log:"C:\Users\Jack\Jack store\Scripts\log2.txt" /R:0 /W:0
